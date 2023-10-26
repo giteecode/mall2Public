@@ -1,4 +1,4 @@
-## 基于Java+Springboot/ssm+Vue的手机商城081
+## 基于Java+Springboot/ssm+Vue的小米商城081
 
 ## 一、系统介绍
 本项目前后端分离（该项目还有ssm+vue版本）
